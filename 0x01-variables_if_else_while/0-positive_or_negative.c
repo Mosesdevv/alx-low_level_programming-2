@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*more headers goes there*/
- * int main(void)
+int main(void)
 
 {
 int n;
