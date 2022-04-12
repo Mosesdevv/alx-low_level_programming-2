@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**                                                                                                                                     
  * main - Prints a program to return 0
  * Return:This program returns 0
