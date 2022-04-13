@@ -1,19 +1,19 @@
 #include "main.h"
-#include <stdio.h>
-/**                                                                                                                                     
- * main - Prints a program to return 0
- * Return:This program returns 0
+
+/**
+ * main - prints to the console _putchar followed by a newline
+ * Return: - Always 0 (success)
  */
 int main(void)
 {
-_putchar('_');
-_putchar('p');
-_putchar('u');
-_putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
-_putchar('\n');
-return (0);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
 }
