@@ -1,2 +1,1 @@
-0x00-hello_world
-This repository includes C programming language
+0x03-debugging repo
